@@ -32,7 +32,7 @@ make a White cane with arduino nano for blind's convenience
 >>거리 표현 가능
 >>12c 연결
 >>3.3v 구동
->>사용 전류는 측정 필요하다!
+>>사용 전류는 측정 필요하다!  
 >>[영상자료](https://www.devicemart.co.kr/goods/view?no=12231929) << 참고!
 >
 >충전 모듈
@@ -47,6 +47,7 @@ make a White cane with arduino nano for blind's convenience
 >세로 75mm, 가로 15mm
 
 </br>
+
 지팡이 (케이스)
 >아마, 3d프린터로 직접 제작할 예정
 >직경 30 ~ 40 mm
